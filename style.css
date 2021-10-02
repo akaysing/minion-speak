@@ -64,7 +64,8 @@ header div {
     margin: auto;
     margin-top: 2rem;
     margin-bottom: 2rem;
-
+    font-size: small;
+    font-weight: 200;
     width: 100%;
     max-width: 600px;
     height: 10vh;
